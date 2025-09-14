@@ -1,0 +1,5 @@
+hello bang nama gua jaulhak salam kenal yee
+
+Resolusi :
+- Membuat website menggunakan framework javascript
+- Bekerja di start-up
